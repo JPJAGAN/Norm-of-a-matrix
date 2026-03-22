@@ -83,7 +83,8 @@ print(f"{max_sum:.2f}")
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<img width="453" height="411" alt="image" src="https://github.com/user-attachments/assets/3d3892eb-e71d-480e-8cf7-466fc1c7cb66" /><img width="429" height="61" alt="image" src="https://github.com/user-attachments/assets/6fca1ad3-20a3-4038-bdad-b0aef3b0a888" />
+<img width="453" height="411" alt="image" src="https://github.com/user-attachments/assets/3d3892eb-e71d-480e-8cf7-466fc1c7cb66" />
+<img width="429" height="61" alt="image" src="https://github.com/user-attachments/assets/6fca1ad3-20a3-4038-bdad-b0aef3b0a888" />
 
 ### 2-Norm of a Matrix
 <img width="475" height="862" alt="image" src="https://github.com/user-attachments/assets/6c0962c1-be0f-4a86-9a97-dcf96a25545b" />
