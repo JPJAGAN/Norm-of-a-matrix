@@ -84,15 +84,19 @@ print(f"{max_sum:.2f}")
 ## Output:
 ### 1-Norm of a Matrix
 <img width="453" height="411" alt="image" src="https://github.com/user-attachments/assets/3d3892eb-e71d-480e-8cf7-466fc1c7cb66" />
+
 <img width="429" height="61" alt="image" src="https://github.com/user-attachments/assets/6fca1ad3-20a3-4038-bdad-b0aef3b0a888" />
 
 ### 2-Norm of a Matrix
 <img width="475" height="862" alt="image" src="https://github.com/user-attachments/assets/6c0962c1-be0f-4a86-9a97-dcf96a25545b" />
+
 <img width="396" height="70" alt="image" src="https://github.com/user-attachments/assets/ff53897f-cca6-4384-8c85-5c1125c783ed" />
+
 <img width="338" height="57" alt="image" src="https://github.com/user-attachments/assets/fae254cf-01e1-4bb0-91a3-ca90abc92380" />
 
 ### Infinity Norm of a Matrix
 <img width="455" height="321" alt="image" src="https://github.com/user-attachments/assets/40a5c2e7-b78a-4890-99c3-ce0ed5013511" />
+
 <img width="380" height="70" alt="image" src="https://github.com/user-attachments/assets/272200f6-c4b9-4f75-8c83-fb83b2a1e5ae" />
 
 ## Result
